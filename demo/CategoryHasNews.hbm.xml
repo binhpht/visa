@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 21, 2014 9:23:55 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="CategoryHasNews" table="Category_has_News" catalog="VSDB">
+        <composite-id name="id" class="CategoryHasNewsId">
+            <key-property name="categoryCategoryId" type="int">
+                <column name="Category_CategoryID" />
+            </key-property>
+            <key-property name="newsNewsId" type="int">
+                <column name="News_NewsID" />
+            </key-property>
+        </composite-id>
+    </class>
+</hibernate-mapping>

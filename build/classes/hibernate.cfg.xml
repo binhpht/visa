@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+      <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/VSDB</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+         <property name="show_sql">true</property>
+         <mapping resource="Applicants.hbm.xml"/>   
+         <mapping resource="Category.hbm.xml"/>   
+         <mapping resource="CategoryHasNews.hbm.xml"/>   
+         <mapping resource="CustomerContact.hbm.xml"/>   
+         <mapping resource="News.hbm.xml"/>   
+         <mapping resource="Order.hbm.xml"/>   
+         <mapping resource="OrderStatus.hbm.xml"/>   
+         <mapping resource="Payment.hbm.xml"/>   
+         <mapping resource="PaymentofOrder.hbm.xml"/>   
+         <mapping resource="User.hbm.xml"/>   
+    </session-factory>
+    
+</hibernate-configuration>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 21, 2014 9:23:55 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="Order" table="Order" catalog="VSDB">
+        <id name="orderId" type="java.lang.Integer">
+            <column name="OrderID" />
+            <generator class="identity" />
+        </id>
+        <property name="visaTypes" type="string">
+            <column name="VisaTypes" length="45" />
+        </property>
+        <property name="visaPurpose" type="string">
+            <column name="VisaPurpose" length="45" />
+        </property>
+        <property name="processTime" type="string">
+            <column name="ProcessTime" length="45" />
+        </property>
+        <property name="dateArrival" type="timestamp">
+            <column name="DateArrival" length="0" />
+        </property>
+        <property name="dateExit" type="timestamp">
+            <column name="DateExit" length="0" />
+        </property>
+        <property name="orderDay" type="string">
+            <column name="OrderDay" length="45" />
+        </property>
+        <property name="customerContactCustomerId" type="int">
+            <column name="CustomerContact_CustomerID" not-null="true" />
+        </property>
+        <property name="amount" type="big_decimal">
+            <column name="Amount" precision="10" scale="4" />
+        </property>
+        <property name="notes" type="string">
+            <column name="Notes" length="245" />
+        </property>
+        <property name="applicantNumber" type="string">
+            <column name="ApplicantNumber" length="45" />
+        </property>
+    </class>
+</hibernate-mapping>

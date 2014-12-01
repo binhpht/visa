@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+	<constant name="struts.devMode" value="true" />
+
+	<package name="basicstruts2" extends="struts-default"
+		namespace="/">
+
+
+		<action name="index" class="net.vietnamvisaonarrival.action.FirstStepAction">
+			<result name="success">/index.jsp</result>
+		</action>
+		<action name="payment" class="net.vietnamvisaonarrival.action.SecondStepAction" method="payment">
+			<result name="success">/index.jsp</result>
+		</action>
+		<action name="admin_getListOrder" class="net.vietnamvisaonarrival.action.AdminAction" method="getListOrder"	>
+			<result name="success">/admin/listOrder.jsp</result>
+		</action>
+		<action name="orderDetail" class="net.vietnamvisaonarrival.action.AdminAction" method="getOrderDetail"	>
+			<result name="success">/admin/orderdetail.jsp</result>
+		</action>
+		
+		<action name="step1" class="net.vietnamvisaonarrival.action.FirstStepAction">
+			<result name="success">/step1.jsp</result>
+		</action>
+		<action name="step2" class="net.vietnamvisaonarrival.action.SecondStepAction"
+			method="stepTwoAction">
+			<result name="success">/step2.jsp</result>
+		</action>
+		<action name="step3" class="net.vietnamvisaonarrival.action.SecondStepAction"
+			method="stepThreeAction">
+			<result name="input">/step2.jsp</result>
+			<result name="SUCCESS">/step3.jsp</result>
+		</action>
+
+		<action name="addCustomer" class="net.vietnamvisaonarrival.action.SecondStepAction"
+			method="stepTwoAction">
+			<result name="SUCCESS">/index.jsp</result>
+		</action>
+
+
+	</package>
+
+
+</struts>
