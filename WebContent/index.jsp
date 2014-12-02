@@ -244,448 +244,448 @@ listDiffcultCountry.push('<s:property/>');
 
 							</div>
 						</div>
-						<div class="social-media animate-onscroll">
-							<span class="small-caption">Get connected:</span>
-							<ul class="social-icons">
-								<li class="facebook"><a href="#" class="tooltip-ontop"
-									title="Facebook"><i class="icons icon-facebook"></i></a></li>
-								<li class="twitter"><a href="#" class="tooltip-ontop"
-									title="Twitter"><i class="icons icon-twitter"></i></a></li>
-								<li class="google"><a href="#" class="tooltip-ontop"
-									title="Google Plus"><i class="icons icon-gplus"></i></a></li>
-								<li class="youtube"><a href="#" class="tooltip-ontop"
-									title="Youtube"><i class="icons icon-youtube-1"></i></a></li>
-								<li class="flickr"><a href="#" class="tooltip-ontop"
-									title="Flickr"><i class="icons icon-flickr-4"></i></a></li>
-								<li class="email"><a href="#" class="tooltip-ontop"
-									title="Email"><i class="icons icon-mail"></i></a></li>
-							</ul>
-							<ul class="social-buttons">
-								<li><iframe
-										src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35"
-										style="border: none; overflow: hidden; height: 21px; padding-top: 1px; width: 50px;"></iframe>
-								</li>
-								<li class="facebook-share">
-									<div class="fb-share-button"
-										data-href="https://developers.facebook.com/docs/plugins/"
-										data-type="button_count"></div>
-								</li>
-								<li class="twitter-share"><a
-									href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-
-				</div>
-
-			</section>
-			<!-- /Section -->
-
-
-
-
-			<!-- Section -->
-			<section class="section full-width-bg gray-bg">
-
-				<div class="row">
-
-					<div class="col-lg-9 col-md-9 col-sm-8">
-
-						<h3 class="animate-onscroll no-margin-top">Latest news</h3>
-
-						<!-- Blog Post -->
-						<div class="blog-post big animate-onscroll">
-
-							<div class="post-image">
-								<img src="img/blog/post1.jpg" alt="">
-							</div>
-
-							<h4 class="post-title">
-								<a href="blog-single-sidebar.html">Nam elit agna, endrerit
-									sit amet, tincidunt ac, viverra sed</a>
-							</h4>
-
-							<div class="post-meta">
-								<span>by <a href="#">admin</a></span> <span>October 01,
-									2013 11:28AM</span>
-							</div>
+<!-- 						<div class="social-media animate-onscroll"> -->
+<%-- 							<span class="small-caption">Get connected:</span> --%>
+<!-- 							<ul class="social-icons"> -->
+<!-- 								<li class="facebook"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Facebook"><i class="icons icon-facebook"></i></a></li> -->
+<!-- 								<li class="twitter"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Twitter"><i class="icons icon-twitter"></i></a></li> -->
+<!-- 								<li class="google"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Google Plus"><i class="icons icon-gplus"></i></a></li> -->
+<!-- 								<li class="youtube"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Youtube"><i class="icons icon-youtube-1"></i></a></li> -->
+<!-- 								<li class="flickr"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Flickr"><i class="icons icon-flickr-4"></i></a></li> -->
+<!-- 								<li class="email"><a href="#" class="tooltip-ontop" -->
+<!-- 									title="Email"><i class="icons icon-mail"></i></a></li> -->
+<!-- 							</ul> -->
+<!-- 							<ul class="social-buttons"> -->
+<!-- 								<li><iframe -->
+<!-- 										src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" -->
+<!-- 										style="border: none; overflow: hidden; height: 21px; padding-top: 1px; width: 50px;"></iframe> -->
+<!-- 								</li> -->
+<!-- 								<li class="facebook-share"> -->
+<!-- 									<div class="fb-share-button" -->
+<!-- 										data-href="https://developers.facebook.com/docs/plugins/" -->
+<!-- 										data-type="button_count"></div> -->
+<!-- 								</li> -->
+<!-- 								<li class="twitter-share"><a -->
+<!-- 									href="https://twitter.com/share" class="twitter-share-button">Tweet</a> -->
+<!-- 								</li> -->
+<!-- 							</ul> -->
+<!-- 						</div> -->
+<!-- 					</div> -->
+
+<!-- 				</div> -->
+
+<%-- 			</section> --%>
+<!-- 			<!-- /Section --> -->
+
+
+
+
+<!-- 			<!-- Section --> -->
+<%-- 			<section class="section full-width-bg gray-bg"> --%>
+
+<!-- 				<div class="row"> -->
+
+<!-- 					<div class="col-lg-9 col-md-9 col-sm-8"> -->
+
+<!-- 						<h3 class="animate-onscroll no-margin-top">Latest news</h3> -->
+
+<!-- 						Blog Post -->
+<!-- 						<div class="blog-post big animate-onscroll"> -->
+
+<!-- 							<div class="post-image"> -->
+<!-- 								<img src="img/blog/post1.jpg" alt=""> -->
+<!-- 							</div> -->
+
+<!-- 							<h4 class="post-title"> -->
+<!-- 								<a href="blog-single-sidebar.html">Nam elit agna, endrerit -->
+<!-- 									sit amet, tincidunt ac, viverra sed</a> -->
+<!-- 							</h4> -->
+
+<!-- 							<div class="post-meta"> -->
+<%-- 								<span>by <a href="#">admin</a></span> <span>October 01, --%>
+<%-- 									2013 11:28AM</span> --%>
+<!-- 							</div> -->
 
-							<p>Ut tellus dolor, dapibus eget, elementum vel, cursus
-								eleifend, elit. Aenean auctor wisi et urna. Aliquam erat
-								volutpat. Duis ac turpis. Integer rutrum ante eu lacus.</p>
+<!-- 							<p>Ut tellus dolor, dapibus eget, elementum vel, cursus -->
+<!-- 								eleifend, elit. Aenean auctor wisi et urna. Aliquam erat -->
+<!-- 								volutpat. Duis ac turpis. Integer rutrum ante eu lacus.</p> -->
 
-							<a href="blog-single-sidebar.html"
-								class="button read-more-button big button-arrow">Read More</a>
-
-						</div>
-						<!-- /Blog Post -->
-						<!-- Owl Carousel -->
-						<div class="owl-carousel-container">
-
-							<div class="owl-header">
+<!-- 							<a href="blog-single-sidebar.html" -->
+<!-- 								class="button read-more-button big button-arrow">Read More</a> -->
+
+<!-- 						</div> -->
+<!-- 						/Blog Post -->
+<!-- 						Owl Carousel -->
+<!-- 						<div class="owl-carousel-container"> -->
+
+<!-- 							<div class="owl-header"> -->
 
-								<h3 class="animate-onscroll">Customer satisfaction</h3>
-
-								<div class="carousel-arrows animate-onscroll">
-									<span class="left-arrow"><i class="icons icon-left-dir"></i></span>
-									<span class="right-arrow"><i
-										class="icons icon-right-dir"></i></span>
-								</div>
+<!-- 								<h3 class="animate-onscroll">Customer satisfaction</h3> -->
+
+<!-- 								<div class="carousel-arrows animate-onscroll"> -->
+<%-- 									<span class="left-arrow"><i class="icons icon-left-dir"></i></span> --%>
+<%-- 									<span class="right-arrow"><i --%>
+<%-- 										class="icons icon-right-dir"></i></span> --%>
+<!-- 								</div> -->
 
-							</div>
+<!-- 							</div> -->
 
-							<div class="owl-carousel" data-max-items="3">
+<!-- 							<div class="owl-carousel" data-max-items="3"> -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post2.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post2.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Donec porta diam eu
-												massa</a>
-										</h4>
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Donec porta diam eu -->
+<!-- 												massa</a> -->
+<!-- 										</h4> -->
 
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
 
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
 
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
 
-									</div>
-									<!-- /Blog Post -->
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
 
-								</div>
-								<!-- /Owl Item -->
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post3.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post3.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Vestibulum iaculis </a>
-										</h4>
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Vestibulum iaculis </a> -->
+<!-- 										</h4> -->
 
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
 
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
 
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
 
-									</div>
-									<!-- /Blog Post -->
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
 
-								</div>
-								<!-- /Owl Item -->
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post4.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post4.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Praesent justo dolor</a>
-										</h4>
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Praesent justo dolor</a> -->
+<!-- 										</h4> -->
 
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
 
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
 
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
 
-									</div>
-									<!-- /Blog Post -->
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
 
-								</div>
-								<!-- /Owl Item -->
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post2.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post2.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Donec porta diam eu
-												massa</a>
-										</h4>
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Donec porta diam eu -->
+<!-- 												massa</a> -->
+<!-- 										</h4> -->
 
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
 
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
 
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
 
-									</div>
-									<!-- /Blog Post -->
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
 
-								</div>
-								<!-- /Owl Item -->
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post3.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post3.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Vestibulum iaculis </a>
-										</h4>
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Vestibulum iaculis </a> -->
+<!-- 										</h4> -->
 
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
 
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
 
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
 
-									</div>
-									<!-- /Blog Post -->
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
 
-								</div>
-								<!-- /Owl Item -->
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
 
-								<!-- Owl Item -->
-								<div>
+<!-- 								Owl Item -->
+<!-- 								<div> -->
 
-									<!-- Blog Post -->
-									<div class="blog-post animate-onscroll">
+<!-- 									Blog Post -->
+<!-- 									<div class="blog-post animate-onscroll"> -->
 
-										<div class="post-image">
-											<img src="img/blog/post4.jpg" alt="">
-										</div>
+<!-- 										<div class="post-image"> -->
+<!-- 											<img src="img/blog/post4.jpg" alt=""> -->
+<!-- 										</div> -->
 
-										<h4 class="post-title">
-											<a href="blog-single-sidebar.html">Praesent justo dolor</a>
-										</h4>
-
-										<div class="post-meta">
-											<span>by <a href="#">admin</a></span> <span>October
-												01, 2013 11:28AM</span>
-										</div>
-
-										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis
-											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero
-											nisl, porta vel.</p>
-
-										<a href="blog-single-sidebar.html"
-											class="button read-more-button big button-arrow">Read
-											More</a>
-
-									</div>
-									<!-- /Blog Post -->
-
-								</div>
-								<!-- /Owl Item -->
-
-							</div>
-
-						</div>
-						<!-- /Owl Carousel -->
-						<!-- Banner Rotator -->
-						<div class="banner-rotator animate-onscroll">
-
-							<div class="flexslider banner-rotator-flexslider">
-
-								<ul class="slides">
-
-									<li id="flex_rotator_1">
-										<div class="banner-rotator-content">
-											<h5>Campaign trial</h5>
-											<h2>New York</h2>
-											<span class="date">December 17th</span> <a href="#"
-												class="button big button-arrow">Details</a>
-										</div>
-									</li>
-
-									<li id="flex_rotator_2">
-										<div class="banner-rotator-content">
-											<h5>Campaign trial</h5>
-											<h2>Corden</h2>
-											<span class="date">April 12th</span> <a href="#"
-												class="button big button-arrow">Details</a>
-										</div>
-									</li>
-
-									<li id="flex_rotator_3">
-										<div class="banner-rotator-content">
-											<h5>Campaign trial</h5>
-											<h2>Redhedge</h2>
-											<span class="date">June 27th</span> <a href="#"
-												class="button big button-arrow">Details</a>
-										</div>
-									</li>
-
-								</ul>
-
-							</div>
-
-						</div>
-						<!-- /Banner Rotator -->
-
-					</div>
-
-
-
-					<!-- Sidebar -->
-					<div class="col-lg-3 col-md-3 col-sm-4 sidebar">
-
-						<!-- Featured Video -->
-						<div class="sidebar-box white featured-video animate-onscroll">
-							<h3>Featured Video</h3>
-							<iframe width="560" height="315"
-								src="//www.youtube.com/watch?v=N3_jDVkmNtc?wmode=transparent"
-								allowfullscreen></iframe>
-							<a href="#" class="button transparent button-arrow">More
-								videos</a>
-						</div>
-						<!-- /Featured Video -->
-						<!-- Upcoming Events -->
-						<div class="sidebar-box white animate-onscroll">
-							<h3>Upcoming Events</h3>
-							<ul class="upcoming-events">
-
-								<!-- Event -->
-								<li>
-									<div class="date">
-										<span> <span class="day">25</span> <span class="month">DEC</span>
-										</span>
-									</div>
-
-									<div class="event-content">
-										<h6>
-											<a href="event-post-v2.html">Sed in lacus ut enim</a>
-										</h6>
-										<ul class="event-meta">
-											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li>
-											<li><i class="icons icon-location"></i> 340 W 50th
-												St.New York</li>
-										</ul>
-									</div>
-								</li>
-								<!-- /Event -->
-
-								<!-- Event -->
-								<li>
-									<div class="date">
-										<span> <span class="day">5</span> <span class="month">JAN</span>
-										</span>
-									</div>
-
-									<div class="event-content">
-										<h6>
-											<a href="event-post-v2.html">Sed in lacus ut enim</a>
-										</h6>
-										<ul class="event-meta">
-											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li>
-											<li><i class="icons icon-location"></i> 340 W 50th
-												St.New York</li>
-										</ul>
-									</div>
-								</li>
-								<!-- /Event -->
-
-								<!-- Event -->
-								<li>
-									<div class="date">
-										<span> <span class="day">8</span> <span class="month">JAN</span>
-										</span>
-									</div>
-
-									<div class="event-content">
-										<h6>
-											<a href="event-post-v2.html">Sed in lacus ut enim</a>
-										</h6>
-										<ul class="event-meta">
-											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li>
-											<li><i class="icons icon-location"></i> 340 W 50th
-												St.New York</li>
-										</ul>
-									</div>
-								</li>
-								<!-- /Event -->
-
-							</ul>
-							<a href="#" class="button transparent button-arrow">More
-								events</a>
-						</div>
-						<!-- /Upcoming Events -->
-						<!-- Image Banner -->
-						<div class="sidebar-box image-banner animate-onscroll">
-							<a href="issues.html"> <img src="img/main-issues.jpg" alt="">
-								<h3>The main issues</h3> <span
-								class="button transparent button-arrow">Find out more</span>
-							</a>
-						</div>
-						<!-- /Image Banner -->
-						<!-- Flickr Photos -->
-						<div class="sidebar-box white flickr-photos animate-onscroll">
-							<h3>Flickr Photos</h3>
-							<ul class="flickr-feed">
-							</ul>
-						</div>
-						<!-- /Flickr Photos -->
-					</div>
-					<!-- /Sidebar -->
+<!-- 										<h4 class="post-title"> -->
+<!-- 											<a href="blog-single-sidebar.html">Praesent justo dolor</a> -->
+<!-- 										</h4> -->
+
+<!-- 										<div class="post-meta"> -->
+<%-- 											<span>by <a href="#">admin</a></span> <span>October --%>
+<%-- 												01, 2013 11:28AM</span> --%>
+<!-- 										</div> -->
+
+<!-- 										<p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis -->
+<!-- 											ac turpis. Integer rutrum ante eu lacus. Vestibulum libero -->
+<!-- 											nisl, porta vel.</p> -->
+
+<!-- 										<a href="blog-single-sidebar.html" -->
+<!-- 											class="button read-more-button big button-arrow">Read -->
+<!-- 											More</a> -->
+
+<!-- 									</div> -->
+<!-- 									/Blog Post -->
+
+<!-- 								</div> -->
+<!-- 								/Owl Item -->
+
+<!-- 							</div> -->
+
+<!-- 						</div> -->
+<!-- 						/Owl Carousel -->
+<!-- 						Banner Rotator -->
+<!-- 						<div class="banner-rotator animate-onscroll"> -->
+
+<!-- 							<div class="flexslider banner-rotator-flexslider"> -->
+
+<!-- 								<ul class="slides"> -->
+
+<!-- 									<li id="flex_rotator_1"> -->
+<!-- 										<div class="banner-rotator-content"> -->
+<!-- 											<h5>Campaign trial</h5> -->
+<!-- 											<h2>New York</h2> -->
+<%-- 											<span class="date">December 17th</span> <a href="#" --%>
+<!-- 												class="button big button-arrow">Details</a> -->
+<!-- 										</div> -->
+<!-- 									</li> -->
+
+<!-- 									<li id="flex_rotator_2"> -->
+<!-- 										<div class="banner-rotator-content"> -->
+<!-- 											<h5>Campaign trial</h5> -->
+<!-- 											<h2>Corden</h2> -->
+<%-- 											<span class="date">April 12th</span> <a href="#" --%>
+<!-- 												class="button big button-arrow">Details</a> -->
+<!-- 										</div> -->
+<!-- 									</li> -->
+
+<!-- 									<li id="flex_rotator_3"> -->
+<!-- 										<div class="banner-rotator-content"> -->
+<!-- 											<h5>Campaign trial</h5> -->
+<!-- 											<h2>Redhedge</h2> -->
+<%-- 											<span class="date">June 27th</span> <a href="#" --%>
+<!-- 												class="button big button-arrow">Details</a> -->
+<!-- 										</div> -->
+<!-- 									</li> -->
+
+<!-- 								</ul> -->
+
+<!-- 							</div> -->
+
+<!-- 						</div> -->
+<!-- 						/Banner Rotator -->
+
+<!-- 					</div> -->
+
+
+
+<!-- 					Sidebar -->
+<!-- 					<div class="col-lg-3 col-md-3 col-sm-4 sidebar"> -->
+
+<!-- 						Featured Video -->
+<!-- 						<div class="sidebar-box white featured-video animate-onscroll"> -->
+<!-- 							<h3>Featured Video</h3> -->
+<!-- 							<iframe width="560" height="315" -->
+<!-- 								src="//www.youtube.com/watch?v=N3_jDVkmNtc?wmode=transparent" -->
+<!-- 								allowfullscreen></iframe> -->
+<!-- 							<a href="#" class="button transparent button-arrow">More -->
+<!-- 								videos</a> -->
+<!-- 						</div> -->
+<!-- 						/Featured Video -->
+<!-- 						Upcoming Events -->
+<!-- 						<div class="sidebar-box white animate-onscroll"> -->
+<!-- 							<h3>Upcoming Events</h3> -->
+<!-- 							<ul class="upcoming-events"> -->
+
+<!-- 								Event -->
+<!-- 								<li> -->
+<!-- 									<div class="date"> -->
+<%-- 										<span> <span class="day">25</span> <span class="month">DEC</span> --%>
+<%-- 										</span> --%>
+<!-- 									</div> -->
+
+<!-- 									<div class="event-content"> -->
+<!-- 										<h6> -->
+<!-- 											<a href="event-post-v2.html">Sed in lacus ut enim</a> -->
+<!-- 										</h6> -->
+<!-- 										<ul class="event-meta"> -->
+<!-- 											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li> -->
+<!-- 											<li><i class="icons icon-location"></i> 340 W 50th -->
+<!-- 												St.New York</li> -->
+<!-- 										</ul> -->
+<!-- 									</div> -->
+<!-- 								</li> -->
+<!-- 								/Event -->
+
+<!-- 								Event -->
+<!-- 								<li> -->
+<!-- 									<div class="date"> -->
+<%-- 										<span> <span class="day">5</span> <span class="month">JAN</span> --%>
+<%-- 										</span> --%>
+<!-- 									</div> -->
+
+<!-- 									<div class="event-content"> -->
+<!-- 										<h6> -->
+<!-- 											<a href="event-post-v2.html">Sed in lacus ut enim</a> -->
+<!-- 										</h6> -->
+<!-- 										<ul class="event-meta"> -->
+<!-- 											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li> -->
+<!-- 											<li><i class="icons icon-location"></i> 340 W 50th -->
+<!-- 												St.New York</li> -->
+<!-- 										</ul> -->
+<!-- 									</div> -->
+<!-- 								</li> -->
+<!-- 								/Event -->
+
+<!-- 								Event -->
+<!-- 								<li> -->
+<!-- 									<div class="date"> -->
+<%-- 										<span> <span class="day">8</span> <span class="month">JAN</span> --%>
+<%-- 										</span> --%>
+<!-- 									</div> -->
+
+<!-- 									<div class="event-content"> -->
+<!-- 										<h6> -->
+<!-- 											<a href="event-post-v2.html">Sed in lacus ut enim</a> -->
+<!-- 										</h6> -->
+<!-- 										<ul class="event-meta"> -->
+<!-- 											<li><i class="icons icon-clock"></i> 4:00 pm - 6:00 pm</li> -->
+<!-- 											<li><i class="icons icon-location"></i> 340 W 50th -->
+<!-- 												St.New York</li> -->
+<!-- 										</ul> -->
+<!-- 									</div> -->
+<!-- 								</li> -->
+<!-- 								/Event -->
+
+<!-- 							</ul> -->
+<!-- 							<a href="#" class="button transparent button-arrow">More -->
+<!-- 								events</a> -->
+<!-- 						</div> -->
+<!-- 						/Upcoming Events -->
+<!-- 						Image Banner -->
+<!-- 						<div class="sidebar-box image-banner animate-onscroll"> -->
+<!-- 							<a href="issues.html"> <img src="img/main-issues.jpg" alt=""> -->
+<%-- 								<h3>The main issues</h3> <span --%>
+<%-- 								class="button transparent button-arrow">Find out more</span> --%>
+<!-- 							</a> -->
+<!-- 						</div> -->
+<!-- 						/Image Banner -->
+<!-- 						Flickr Photos -->
+<!-- 						<div class="sidebar-box white flickr-photos animate-onscroll"> -->
+<!-- 							<h3>Flickr Photos</h3> -->
+<!-- 							<ul class="flickr-feed"> -->
+<!-- 							</ul> -->
+<!-- 						</div> -->
+<!-- 						/Flickr Photos -->
+<!-- 					</div> -->
+<!-- 					/Sidebar -->
 
 
 
